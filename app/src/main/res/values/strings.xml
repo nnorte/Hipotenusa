@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teorema de Pitágoras</string>
+    <string name="App_logo">Teorema de pitagoras</string>
+    <string name="App_titulo">Teorema de Pitágoras</string>
+    <string name="App_catetoA">Cateto A</string>
+    <string name="App_catetoB">Cateto B</string>
+    <string name="App_calcular">Calcular Hipotenusa</string>
+    <string name="App_resultado">Hipotenusa</string>
+</resources>
